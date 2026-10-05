@@ -4,4 +4,7 @@
 !/README.md
 !/CURRENT_VS_PROPOSED.md
 !/vercel.json
+!/.vercelignore
 !/dist/
+.vercel
+.env*

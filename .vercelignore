@@ -1,0 +1,6 @@
+# Upload only the approved static site and deployment configuration.
+*
+!dist
+!dist/**
+!vercel.json
+!.vercelignore
