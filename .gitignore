@@ -1,0 +1,7 @@
+# Publish an explicit allowlist only. Local authoring and evidence stay private.
+/*
+!/.gitignore
+!/README.md
+!/CURRENT_VS_PROPOSED.md
+!/vercel.json
+!/dist/
